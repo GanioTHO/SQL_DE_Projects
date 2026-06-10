@@ -24,11 +24,11 @@ Here are the files that will interest you the most:
 
 Here is the structure of the database:
 
-![](..\Images\1_2_Data_Warehouse.png)
+![](../Images/1_2_Data_Warehouse.png)
 
 The main problems, which required more sophisticated methods, can be seen in [03_optimal_skills.sql](03_optimal_skills.sql). There, I use the natural logarithm function to smooth out the disparity between the number of postings and median yearly earnings. The graph illustrating this approach is shown below:
 
-![](..\Images\qPNNp.png)
+![](../Images/qPNNp.png)
 
 ## Tech Stack
 Technologies used:
